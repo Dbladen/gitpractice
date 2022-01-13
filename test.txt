@@ -1,5 +1,10 @@
 One
 Two
+apparently this is gonna work now?
+<<<<<<< HEAD
 Ready?
 Go!
+=======
+Go
+>>>>>>> eb89d8c3df1e8f9f4565b2132444d20726196dc2
 
